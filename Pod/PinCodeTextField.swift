@@ -84,9 +84,10 @@ import UIKit
         }
     }
     
+    public var underlines: [UIView] = []
+    
     //MARK: Private
     private var labels: [UILabel] = []
-    private var underlines: [UIView] = []
     private var backgrounds: [UIView] = []
     
     
